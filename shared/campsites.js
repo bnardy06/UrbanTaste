@@ -1,34 +1,34 @@
 export const CAMPSITES = [
     {
         id: 0,
-        name: "React Lake Campground",
-        image: "/assets/images/react-lake.jpg",
+        name: "George's bbq",
+        image: "/assets/images/George'sbbq.jpg",
         elevation: 1233,
         featured: false,
-        description: "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
+        description: "George started making sauces to go with his barbecue in 2012 to carry on the tradtion of his father and grandfather."
     },
     {
         id: 1,
-        name:"Chrome River Campground ",
-        image: "/assets/images/chrome-river.jpg",
+        name:"Sweet Punkin's",
+        image: "/assets/images/SweetPunkin's.jpg",
         elevation: 877,
         featured: false,
-        description: "Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River."
+        description: "Daddy's favorite delights, and a beautiful touch from me to tie it all togeether."
     },
     {
         id: 2,
-        name:"Breadcrumb Trail Campground",
-        image: "/assets/images/breadcrumb-trail.jpg",
+        name:"Love Jones Catering",
+        image: "/assets/images/LoveJonesCatering.jpg",
         elevation: 2901,
         featured: false,
-        description: "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground."
+        description: "Delicious quality food and desert made with Love. Many menus to choose from and will accommodate any budget. Be Blessed."
     },
     {
         id: 3,
-        name:"Redux Woods Campground",
-        image: "/assets/images/redux-woods.jpg",
+        name:"Uncle Willie's Pies",
+        image: "/assets/images/UncleWillie'sPies.jpg",
         elevation: 42,
         featured: true,
-        description: "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+        description: "We are local,family-owned bakery that offers scratch-made desserts with a southern flair, made fresh, with the finest ingredients."
     }
 ];
